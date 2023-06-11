@@ -1,2 +1,4 @@
 # ElgaGardens
-A basic website template for a garden setting 
+A basic website template for a garden setting.
+improvements options. 
+// add an option to book a space virtually and pay for the space
