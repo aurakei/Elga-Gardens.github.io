@@ -5,5 +5,5 @@ Considered improvements options.
 
 # Languages
 Vanilla Js
-CSS
+CSS and bootstrap.
 HTML
